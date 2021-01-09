@@ -60,7 +60,7 @@ export default class Layout extends Vue {
   min-width: 1080px;
 }
 .logo {
-  width: 120px;
+  width: 40px;
   height: 40px;
   background-image: url('../../assets/images/logo.png');
 }
